@@ -1,3 +1,12 @@
+<h3 align="center">Desenvolvendo um aplicativo de Chat Online integrado ao Firebase</h3>
+
+<p align="center">
+  <img src="./assets/dio.png" alt="DIO" title="Digital Innovation One">
+</p>
+
+# Descrição
+Neste projeto você seguirá o passo a passo simples e objetivo para criação de um projeto de chat online utilizando Flutter e o Realtime Database do Firebase.
+
 # Chat Online
 
 Projeto com Flutter para criação de um app de chat online.
